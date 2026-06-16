@@ -1,0 +1,4 @@
+dist/
+.claude/
+.claude-session
+*.DS_Store
